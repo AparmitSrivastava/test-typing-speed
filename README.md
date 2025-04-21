@@ -7,5 +7,3 @@ Welcome to the Typing Speed Test Game! Test how fast and accurately you can type
 - 🔠 Randomly generated text or custom input
 - 🧮 WPM (Words Per Minute) calculation
 - 📊 Accuracy tracking
-- 🌙 Light/Dark theme toggle (optional)
-- 🏆 High score tracking (optional)
